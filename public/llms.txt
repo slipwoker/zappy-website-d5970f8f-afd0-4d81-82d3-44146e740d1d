@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://example.com
+https://tomer-quality-and-everything-i.zappy5.app
 חנות איקומרס מובילה למוצרים מיניאטוריים איכותיים. חוויית קנייה יוקרתית, תשלום מותאם ונוחות ללא פשרות. הצטרפו עכשיו וגלו איכות בכל פריט זעיר!
 
 ### ניסיון
-https://example.com/experience
+https://tomer-quality-and-everything-i.zappy5.app/experience
 צללו לניסיון הקנייה הייחודי שלנו: תהליך תשלום מהיר, ניהול מלאי חכם ושירות שמבין את עולם המוצרים הקטנטנים. התחילו לחוות נוחות אמיתית!
 
 ### אודות
-https://example.com/about
+https://tomer-quality-and-everything-i.zappy5.app/about
 הכירו את החזון שלנו: להביא לכם מיני מוצרים מובחרים עם דגש על איכות ללא פשרות. אנחנו פלטפורמת איקומרס ששמה את הלקוח במרכז. גלו מי אנחנו!
 
 ### שאלות נפוצות
-https://example.com/faq
+https://tomer-quality-and-everything-i.zappy5.app/faq
 יש לכם שאלות על משלוחים, תשלומים או המוצרים הקטנים שלנו? מרכז השאלות הנפוצות יענה לכם על הכל במהירות. קבלו תשובות והמשיכו לקנות בנוחות!
 
 ### צור קשר
-https://example.com/contact
+https://tomer-quality-and-everything-i.zappy5.app/contact
 צריכים עזרה בבחירת מיניאטורה מושלמת? צרו קשר בקלות! אנחנו כאן כדי להבטיח שתקבלו שירות אישי ומהיר. שלחו הודעה ותתחילו ליהנות מקנייה מושלמת!
 
 ### Products
-https://example.com/products
+https://tomer-quality-and-everything-i.zappy5.app/products
 המוצרים שלנו - תומר איכות והכל בנוחות
 
 ### Cart
-https://example.com/cart
+https://tomer-quality-and-everything-i.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://tomer-quality-and-everything-i.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://tomer-quality-and-everything-i.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://tomer-quality-and-everything-i.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://tomer-quality-and-everything-i.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://tomer-quality-and-everything-i.zappy5.app/product/:slug
 פרטי המוצר - תומר איכות והכל בנוחות
 
 ### Category
-https://example.com/category/:slug
+https://tomer-quality-and-everything-i.zappy5.app/category/:slug
 מוצרים - תומר איכות והכל בנוחות
 
 ### תודה רבה
-https://example.com/thank-you
+https://tomer-quality-and-everything-i.zappy5.app/thank-you
 תומר איכות והכל בנוחות - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://tomer-quality-and-everything-i.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://tomer-quality-and-everything-i.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://tomer-quality-and-everything-i.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://tomer-quality-and-everything-i.zappy5.app/sitemap.xml
+- Robots: https://tomer-quality-and-everything-i.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://tomer-quality-and-everything-i.zappy5.app/llms-full.txt
+- Products (JSON): https://tomer-quality-and-everything-i.zappy5.app/products.json
+- Products (Google Merchant RSS): https://tomer-quality-and-everything-i.zappy5.app/product-feed.xml

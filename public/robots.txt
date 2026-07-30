@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://tomer-quality-and-everything-i.zappy5.app/sitemap.xml
