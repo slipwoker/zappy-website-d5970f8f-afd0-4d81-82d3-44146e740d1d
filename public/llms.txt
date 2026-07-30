@@ -1,0 +1,111 @@
+# תומר איכות והכל בנוחות — Generative Engine Optimization Map
+
+> An e-commerce business focused on selling mini products online. The store aims to provide a premium, quality shopping experience with a payment/checkout flow tailored for small-item purchases. The exact niche of mini products (miniature collectibles, travel-size items, small accessories, etc.) is yet to be clarified.
+
+---
+
+## Pages
+
+### בית
+https://-d5970f8f.zappy5.app
+חנות איקומרס מובילה למוצרים מיניאטוריים איכותיים. חוויית קנייה יוקרתית, תשלום מותאם ונוחות ללא פשרות. הצטרפו עכשיו וגלו איכות בכל פריט זעיר!
+
+### ניסיון
+https://-d5970f8f.zappy5.app/experience
+צללו לניסיון הקנייה הייחודי שלנו: תהליך תשלום מהיר, ניהול מלאי חכם ושירות שמבין את עולם המוצרים הקטנטנים. התחילו לחוות נוחות אמיתית!
+
+### אודות
+https://-d5970f8f.zappy5.app/about
+הכירו את החזון שלנו: להביא לכם מיני מוצרים מובחרים עם דגש על איכות ללא פשרות. אנחנו פלטפורמת איקומרס ששמה את הלקוח במרכז. גלו מי אנחנו!
+
+### שאלות נפוצות
+https://-d5970f8f.zappy5.app/faq
+יש לכם שאלות על משלוחים, תשלומים או המוצרים הקטנים שלנו? מרכז השאלות הנפוצות יענה לכם על הכל במהירות. קבלו תשובות והמשיכו לקנות בנוחות!
+
+### צור קשר
+https://-d5970f8f.zappy5.app/contact
+צריכים עזרה בבחירת מיניאטורה מושלמת? צרו קשר בקלות! אנחנו כאן כדי להבטיח שתקבלו שירות אישי ומהיר. שלחו הודעה ותתחילו ליהנות מקנייה מושלמת!
+
+### Products
+https://-d5970f8f.zappy5.app/products
+המוצרים שלנו - תומר איכות והכל בנוחות
+
+### Cart
+https://-d5970f8f.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-d5970f8f.zappy5.app/checkout
+תשלום
+
+### Login
+https://-d5970f8f.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-d5970f8f.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-d5970f8f.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-d5970f8f.zappy5.app/product/:slug
+פרטי המוצר - תומר איכות והכל בנוחות
+
+### Category
+https://-d5970f8f.zappy5.app/category/:slug
+מוצרים - תומר איכות והכל בנוחות
+
+### תודה רבה
+https://-d5970f8f.zappy5.app/thank-you
+תומר איכות והכל בנוחות - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d5970f8f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d5970f8f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d5970f8f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תומר איכות והכל בנוחות
+An e-commerce business focused on selling mini products online. The store aims to provide a premium, quality shopping experience with a payment/checkout flow tailored for small-item purchases. The exact niche of mini products (miniature collectibles, travel-size items, small accessories, etc.) is yet to be clarified.
+
+## Services/Products
+- מכירת מיני מוצרים
+
+## Target Audience
+- מקצוענים צעירים עירוניים
+- הורים עסוקים
+- חובבי קניות אונליין
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d5970f8f.zappy5.app/sitemap.xml
+- Robots: https://-d5970f8f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d5970f8f.zappy5.app/llms-full.txt
+- Products (JSON): https://-d5970f8f.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-d5970f8f.zappy5.app/product-feed.xml
