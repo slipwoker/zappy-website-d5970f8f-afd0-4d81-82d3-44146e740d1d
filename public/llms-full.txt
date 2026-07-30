@@ -2,13 +2,13 @@
 
 An e-commerce business focused on selling mini products online. The store aims to provide a premium, quality shopping experience with a payment/checkout flow tailored for small-item purchases. The exact niche of mini products (miniature collectibles, travel-size items, small accessories, etc.) is yet to be clarified.
 
-Source: https://-d5970f8f.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו את עולם המיני מוצרים — תומר איכות והכל בנוחות
 
-URL: https://-d5970f8f.zappy5.app
+URL: https://example.com
 Description: חנות איקומרס מובילה למוצרים מיניאטוריים איכותיים. חוויית קנייה יוקרתית, תשלום מותאם ונוחות ללא פשרות. הצטרפו עכשיו וגלו איכות בכל פריט זעיר!
 
 גלו את עולם המיני מוצרים — תומר איכות והכל בנוחות
@@ -525,7 +525,7 @@ Description: חנות איקומרס מובילה למוצרים מיניאטו�
 
 ## חוויית רכישה מושלמת לפריטים קטנים — תומר איכות והכל בנוחות
 
-URL: https://-d5970f8f.zappy5.app/experience
+URL: https://example.com/experience
 Description: צללו לניסיון הקנייה הייחודי שלנו: תהליך תשלום מהיר, ניהול מלאי חכם ושירות שמבין את עולם המוצרים הקטנטנים. התחילו לחוות נוחות אמיתית!
 
 חוויית רכישה מושלמת לפריטים קטנים — תומר איכות והכל בנוחות
@@ -1005,7 +1005,7 @@ Description: צללו לניסיון הקנייה הייחודי שלנו: תה�
 
 ## הסיפור מאחורי האיכות הקטנה — תומר איכות והכל בנוחות
 
-URL: https://-d5970f8f.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את החזון שלנו: להביא לכם מיני מוצרים מובחרים עם דגש על איכות ללא פשרות. אנחנו פלטפורמת איקומרס ששמה את הלקוח במרכז. גלו מי אנחנו!
 
 הסיפור מאחורי האיכות הקטנה — תומר איכות והכל בנוחות
@@ -1379,7 +1379,7 @@ Description: הכירו את החזון שלנו: להביא לכם מיני מ�
 
 ## כל התשובות לשאלות על מיני מוצרים — תומר איכות והכל בנוחות
 
-URL: https://-d5970f8f.zappy5.app/faq
+URL: https://example.com/faq
 Description: יש לכם שאלות על משלוחים, תשלומים או המוצרים הקטנים שלנו? מרכז השאלות הנפוצות יענה לכם על הכל במהירות. קבלו תשובות והמשיכו לקנות בנוחות!
 
 כל התשובות לשאלות על מיני מוצרים — תומר איכות והכל בנוחות
@@ -1737,7 +1737,7 @@ Description: יש לכם שאלות על משלוחים, תשלומים או ה�
 
 ## דברו איתנו על כל פריט קטן — תומר איכות והכל בנוחות
 
-URL: https://-d5970f8f.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה בבחירת מיניאטורה מושלמת? צרו קשר בקלות! אנחנו כאן כדי להבטיח שתקבלו שירות אישי ומהיר. שלחו הודעה ותתחילו ליהנות מקנייה מושלמת!
 
 דברו איתנו על כל פריט קטן — תומר איכות והכל בנוחות
@@ -2152,7 +2152,7 @@ Description: צריכים עזרה בבחירת מיניאטורה מושלמת?
 
 ## מוצרים
 
-URL: https://-d5970f8f.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - תומר איכות והכל בנוחות
 
 מוצרים - תומר איכות והכל בנוחות
@@ -2560,7 +2560,7 @@ Description: המוצרים שלנו - תומר איכות והכל בנוחות
 
 ## עגלת קניות
 
-URL: https://-d5970f8f.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - תומר איכות והכל בנוחות
@@ -2810,7 +2810,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-d5970f8f.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - תומר איכות והכל בנוחות
@@ -3246,7 +3246,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-d5970f8f.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - תומר איכות והכל בנוחות
@@ -3503,7 +3503,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-d5970f8f.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - תומר איכות והכל בנוחות
@@ -3915,7 +3915,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-d5970f8f.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - תומר איכות והכל בנוחות
@@ -4189,7 +4189,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-d5970f8f.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - תומר איכות והכל בנוחות
@@ -4492,7 +4492,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-d5970f8f.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - תומר איכות והכל בנוחות
 
 פרטי המוצר - תומר איכות והכל בנוחות
@@ -4744,7 +4744,7 @@ Description: פרטי המוצר - תומר איכות והכל בנוחות
 
 ## מוצרים
 
-URL: https://-d5970f8f.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - תומר איכות והכל בנוחות
 
 מוצרים - תומר איכות והכל בנוחות
@@ -5020,7 +5020,7 @@ Description: מוצרים - תומר איכות והכל בנוחות
 
 ## מדיניות פרטיות
 
-URL: https://-d5970f8f.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -5298,7 +5298,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-d5970f8f.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5585,7 +5585,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-d5970f8f.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5891,7 +5891,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה רבה
 
-URL: https://-d5970f8f.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תומר איכות והכל בנוחות - תודה רבה
 
 תודה רבה

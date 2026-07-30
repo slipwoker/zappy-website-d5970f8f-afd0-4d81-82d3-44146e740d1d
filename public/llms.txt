@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-d5970f8f.zappy5.app
+https://example.com
 חנות איקומרס מובילה למוצרים מיניאטוריים איכותיים. חוויית קנייה יוקרתית, תשלום מותאם ונוחות ללא פשרות. הצטרפו עכשיו וגלו איכות בכל פריט זעיר!
 
 ### ניסיון
-https://-d5970f8f.zappy5.app/experience
+https://example.com/experience
 צללו לניסיון הקנייה הייחודי שלנו: תהליך תשלום מהיר, ניהול מלאי חכם ושירות שמבין את עולם המוצרים הקטנטנים. התחילו לחוות נוחות אמיתית!
 
 ### אודות
-https://-d5970f8f.zappy5.app/about
+https://example.com/about
 הכירו את החזון שלנו: להביא לכם מיני מוצרים מובחרים עם דגש על איכות ללא פשרות. אנחנו פלטפורמת איקומרס ששמה את הלקוח במרכז. גלו מי אנחנו!
 
 ### שאלות נפוצות
-https://-d5970f8f.zappy5.app/faq
+https://example.com/faq
 יש לכם שאלות על משלוחים, תשלומים או המוצרים הקטנים שלנו? מרכז השאלות הנפוצות יענה לכם על הכל במהירות. קבלו תשובות והמשיכו לקנות בנוחות!
 
 ### צור קשר
-https://-d5970f8f.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת מיניאטורה מושלמת? צרו קשר בקלות! אנחנו כאן כדי להבטיח שתקבלו שירות אישי ומהיר. שלחו הודעה ותתחילו ליהנות מקנייה מושלמת!
 
 ### Products
-https://-d5970f8f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - תומר איכות והכל בנוחות
 
 ### Cart
-https://-d5970f8f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-d5970f8f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-d5970f8f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-d5970f8f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-d5970f8f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-d5970f8f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - תומר איכות והכל בנוחות
 
 ### Category
-https://-d5970f8f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - תומר איכות והכל בנוחות
 
 ### תודה רבה
-https://-d5970f8f.zappy5.app/thank-you
+https://example.com/thank-you
 תומר איכות והכל בנוחות - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-d5970f8f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-d5970f8f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-d5970f8f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -104,8 +104,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-d5970f8f.zappy5.app/sitemap.xml
-- Robots: https://-d5970f8f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-d5970f8f.zappy5.app/llms-full.txt
-- Products (JSON): https://-d5970f8f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-d5970f8f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
